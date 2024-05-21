@@ -1,1 +1,1 @@
-## Internship Repository of Meta Sciphor Technologies
+## Internship Repository for Meta Scifor Technologies
